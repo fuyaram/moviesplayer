@@ -1,3 +1,17 @@
+
+
+
+
+![mdnmovies1](https://github.com/fuyaram/moviesplayer/assets/143484868/eee1395a-e20e-4840-9a2f-9d05347f14f7)
+
+
+![mdn2](https://github.com/fuyaram/moviesplayer/assets/143484868/a0977e25-1477-431c-812c-6606421b9e1d)
+
+
+![mdn3](https://github.com/fuyaram/moviesplayer/assets/143484868/544a69a7-a328-4d9a-a5eb-db5ebed8455e)
+![mdn4](https://github.com/fuyaram/moviesplayer/assets/143484868/49a5b4fe-789c-4e2b-8158-b80d5d3e1d7d)
+![mdn5](https://github.com/fuyaram/moviesplayer/assets/143484868/7c9eaa70-7dc7-42e4-9447-bdffa53c9ace)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -63,7 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
 
 ### `npm run build` fails to minify
 
